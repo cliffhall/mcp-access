@@ -58,7 +58,9 @@ export const MEMBERS: readonly Member[] = [
   },
   {
     github: 'BobDickinson',
-    memberOf: [ROLE_IDS.SKILLS_OVER_MCP_IG],
+    email: 'bob.dickinson@gmail.com',
+    discord: '1175893001202045139',
+    memberOf: [ROLE_IDS.MAINTAINERS, ROLE_IDS.INSPECTOR_MAINTAINERS, ROLE_IDS.SKILLS_OVER_MCP_IG],
   },
   {
     github: 'bolinfest',
